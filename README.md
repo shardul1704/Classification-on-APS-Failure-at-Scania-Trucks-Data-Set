@@ -53,4 +53,6 @@ Jupyter Notebook Contents:
 1.(f) Data preprocessing using SMOTE, XGBoost using L-1 Logistic regression with balanced classes
 
 
+Skills - Data Science, Machine Learning, Random Forests, XGBoost, Smote
+
 -----------------------------THANK YOU-----------------------------
